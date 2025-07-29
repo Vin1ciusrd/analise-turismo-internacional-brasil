@@ -1,2 +1,2 @@
 # Análise turismo internacional no Brasil.
-Estudo de dados de turismo internacional no Brasil, de 2000 a 2024. Descobre principais origens, vias, destinos e sazonalidade, apoiando o desenvolvimento do setor.
+Este projeto de ciência de dados explora o cenário do turismo internacional no Brasil de 2000 a 2024. Utilizando dados abertos do governo federal, a análise visa identificar os principais países e continentes de origem dos turistas, as vias de acesso mais utilizadas, as unidades federativas mais procuradas e a sazonalidade do fluxo turístico, oferecendo insights para o desenvolvimento do setor.
