@@ -91,7 +91,3 @@ Para executar este projeto em sua máquina local, siga os passos abaixo:
 ## Contribuição
 
 Contribuições são bem-vindas! Se você tiver alguma sugestão, melhoria ou encontrar algum problema, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a licença [MIT](LICENSE).
